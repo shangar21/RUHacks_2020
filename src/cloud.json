@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-park-277403",
+  "private_key_id": "d33c556302767a00a2dd2e3ff41e750248c64dbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtvfjSAg+tiQ95\n/Dqph8APj32RCEjgsw/Q/BRF45WTFHpFqkngE4PAwH0Rthujpjr4UlcVN+lu/Bv4\nQtGh+gO8A9ZUcgoO3oRzmrEMs5wM9Nqv8hUgIOofYImUZjPkUFY/x1IOt1D91w6F\n6M3LVR6YuzrHZKecndmRDMDbiP6wM/7HWr5oNzBtoXkcDzqCLf/XuwUmiVxaNRGJ\n/v84C2ARxSqvUX9v+zLRKrenHHoruNkrIMucroJ5/4Tdh08K9Cl5IT0tRjcfprhd\nTiPko9ChBtmQPzxjN574OaMl10EClQvQerqMkw9frI/KdnMUZly9jGSnulMFL+9X\nayxIPuxhAgMBAAECggEAE9jx79arsRKpVZF0Z5mx/W0SRnNEdQPLlJ95VucJ1xaV\npbfvbsU37bjniLKNm38huSyZ1VsQ4/xxmwWSEk9/5fZnwXeSEdMGXTjwjQ+HDf1a\nLpOIaYZNDIbQDKd0udoaEjjcNUFog4jx2CcJPFdF0qN/0lebpKLtH9ptvR58Hsdv\nZMu8aaMWB4bmh2TyDWfbQ0FC5hK4hVTcoAdgFs87M7xfCMnDXFqCHnh5pxL80X8g\n7olQLjv93ATjEv7t9slAdLzAPo37pXX6PqVPexmNH2TEIxakQuf72g20zcisKFoT\n4RlP/vwT9rAsiwNToNYdCkMCZKhKKt6PlN+s55UeOQKBgQDoOea4x7MwYQ8Iad6z\nTkTrBzwfOcb/0GJjuUAD69c0wBdPs8Br8rOayCO29SRtRF8Z92Be9VEQ1skJdr1M\nKMuvCOgUvu5wL0vqh7JUCnpiZofHLn79Y8ioO7cx4HVhGNK5cA6dKqJ5NetWwfQ+\n614kihO5GJLO8Qq5U61niszTqQKBgQC/h1c/tvSn/Zjp8pL1UnUpPeHqVCijQkv3\nudPH0xtDNY1CTLQzkF1UX72sTmPrh9W4h1O2mgPJl+/3RSiryZPuDdJyiFBxsKr3\nMC7nKbfUV9jyPFDVVNnb9xhhf83aj5W7qL/jOZi1fjs8vtdnENXshlbvunjongsQ\nBLcwfYTF+QKBgAcIoe1c1xeTCQKHOmCR8VJxEKgdduKOrDw7Ay5bOVR2sP4QArcC\nTeBVSYekGytYE81Uic22fnMVHle0Cf3BipHNokHmmpA5ToJXA9a5zoUmd9xXky8X\nk59M17qiAswjFVbahwbJoMwtDui8zSoOtPZEXF6R2Ph9ooaEe08UjCmpAoGAZp2z\nwF5c3LjBue6OkEPao/sU1IC8uSPnIdX9Qt23iJ3jjjccgVgCuRcGv4/Mdz/y4QgY\ncQg5qUPvfNMgBFJfILdlHposR415PDEjoBS4+lsK0FZClNn+U50jAfIAr+4oMkAq\ndyq/x9XXFSfGruDVTQF5CL4m07MBiFaOc7t8bLkCgYB+qe7aotXmrcCTOaCPQjNr\n0/FqQuMhcRZHKamqc6pIcxfsEPiEmulh2uxyGhCa7aI0DlbLD7Hv41K7yub0jqS6\n3UhYztXVgGuVX3qoL5MfCdb3yQh/KU+ZpwovHXmcaeiprdMG/XaJv8hq1yu3uXKY\n0LfHyyPAbay/3H8ErDM9MA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fridge-bot@alpine-park-277403.iam.gserviceaccount.com",
+  "client_id": "112985927499193863599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fridge-bot%40alpine-park-277403.iam.gserviceaccount.com"
+}
