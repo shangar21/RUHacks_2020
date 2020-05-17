@@ -13,5 +13,4 @@ This app is focused on those that want to try as best as possible avoid going ou
  Our initial idea was to make a messenger bot, unfortunately we ran into trouble with the communication between Heroku and Facebook, seeing as it was not working out we decided to change paths and create an app instead. Our next difficulty was finding a database of recipes to pair with google-cloud-vision's classifications. We then stumbled upon Spoonacular, which is a large database of over 360,000 recipes!
 
 _Navinn Ravindaran_  
-
 _Shangar Muhunthan_
