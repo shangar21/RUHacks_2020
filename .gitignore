@@ -41,8 +41,8 @@ buck-out/
 *.keystore
 !debug.keystore
 
-./src/cloud.json
-./src/config.json
+src/cloud.json
+src/config.json
 
 # fastlane
 #
